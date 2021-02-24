@@ -110,6 +110,7 @@ export default defineConfig({
       'vue',
       'vue-router',
       '@vueuse/core',
+      'rpc-websockets/build-ts/index.browser',
     ],
     exclude: [
       'vue-demi',
